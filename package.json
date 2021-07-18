@@ -1,0 +1,16 @@
+{
+  "name": "faikkit-rpc",
+  "version": "1.0.0",
+  "description": "A Discord Rich Presence Status for Faikkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "run": "nodemon index.js"
+  },
+  "author": "TuuMy",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "nodemon": "^2.0.12"
+  }
+}
