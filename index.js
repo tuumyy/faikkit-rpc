@@ -14,7 +14,7 @@ rpc.on("ready", () => {
       smallImageText: "A Mojang Game"
     })
 
-    console.log("Statusul tau custom a fost activat , daca doresti sa opresti doar inchide aceasta aplicatie");
+    console.log("Statusul tau custom a fost activat , daca doresti sa opresti doar inchide aceasta aplicatie...");
 })
 
 rpc.login({
